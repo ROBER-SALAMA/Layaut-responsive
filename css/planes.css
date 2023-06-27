@@ -1,12 +1,12 @@
 .planes {
-    background-color: var(--background-ceniza-claro);
+    background-color: var(--background-blanco);
     
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
 
 .planes__titulo {
-    color: var(--fuente-ceniza-oscuro);
+    color: var(--background-blanco);
     font-weight: 700;
     font-size: 1.5rem;
     font-family: var(--montserrat);
