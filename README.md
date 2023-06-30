@@ -1,1 +1,3 @@
 hola
+
+"Mobile first" es una filosofía de diseño web que se enfoca en desarrollar primero la versión móvil de un sitio web y luego adaptarla a dispositivos de mayor tamaño, como tabletas y computadoras de escritorio. En lugar de diseñar primero para pantallas grandes y luego reducir el diseño para dispositivos móviles, el enfoque "mobile first" prioriza la experiencia del usuario en dispositivos móviles.
